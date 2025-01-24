@@ -10,11 +10,7 @@ A Python utility for adjusting subtitle timings in SRT files, allowing precise s
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/SubtitleSyncTool.git
-    ```
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
+    git clone https://github.com/matthewlyf/SubtitleSyncTool.git
     ```
 
 ## Usage
