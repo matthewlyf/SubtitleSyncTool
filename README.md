@@ -63,5 +63,3 @@ Hello, World!
 Welcome to the Subtitle Adjuster!
 ```
 
-## License
-[MIT License](LICENSE)
